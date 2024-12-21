@@ -25,7 +25,11 @@ Para atender aos requisitos do desafio, as seguintes tecnologias foram empregada
 ### **Frontend**  
 - **Angular**: Framework usado para desenvolver a interface gráfica interativa e responsiva.  
 - **SignalR**: Integrado ao frontend para gerenciar as mensagens em tempo real.  
-- **Tailwind CSS**: Biblioteca de estilos utilizada para criar um design moderno e funcional.  
+- **Tailwind CSS**: Biblioteca de estilos utilizada para criar um design moderno e funcional.
+  
+- O código do frontend está disponível neste repositório:  
+[Clicker Client - Frontend](https://github.com/brantesdavi/clicker-client)  
+ 
 
 ---
 
