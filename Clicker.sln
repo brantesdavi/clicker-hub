@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clicker", "Clicker\Clicker.csproj", "{2F341CED-335B-463B-8B00-976E5C478FB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F341CED-335B-463B-8B00-976E5C478FB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F341CED-335B-463B-8B00-976E5C478FB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F341CED-335B-463B-8B00-976E5C478FB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F341CED-335B-463B-8B00-976E5C478FB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8938504-6832-455C-943F-30682E065E14}
+	EndGlobalSection
+EndGlobal
